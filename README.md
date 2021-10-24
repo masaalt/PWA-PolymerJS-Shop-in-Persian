@@ -1,6 +1,8 @@
 # SHOP
 
 Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) IN PERSIAN (HERBAL DRUG STORE)
+# LIVE
+-The completed version of this demo is: https://at-golnush.web.app/
 
 ![shop screenshot](https://user-images.githubusercontent.com/116360/39545341-c50a9184-4e05-11e8-88e0-0e1f3fa4834b.png)
 
