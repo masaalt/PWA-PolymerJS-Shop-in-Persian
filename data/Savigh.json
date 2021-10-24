@@ -1,0 +1,38 @@
+[
+  {
+    "name":"lentils_savigh",
+    "title":"سویق عدس",
+    "category":"savigh",
+    "price":120000,
+    "description":"",
+    "image":"data/images/lentils_savigh.jpg",
+    "largeImage":"data/images/lentils_savigh.jpg"
+  }
+  ,{
+    "name":"wheat_savigh",
+    "title":"سویق گندم",
+    "category":"savigh",
+    "price":80000,
+    "description":"",
+    "image":"data/images/wheat_savigh.jpg",
+    "largeImage":"data/images/wheat_savigh.jpg"
+  }
+,{
+  "name":"hybrid_savigh",
+  "title":"سویق ترکیبی",
+  "category":"savigh",
+  "price":120000,
+  "description":"",
+  "image":"data/images/hybrid_savigh.jpg",
+  "largeImage":"data/images/hybrid_savigh.jpg"
+}
+,{
+  "name":"oleaster_savigh",
+  "title":"سویق سنجد",
+  "category":"savigh",
+  "price":175000,
+  "description":"",
+  "image":"data/images/oleaster_savigh.jpg",
+  "largeImage":"data/images/oleaster_savigh.jpg"
+}
+]
